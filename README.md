@@ -1,5 +1,5 @@
 <!-- Hero Section -->
-<h1 align="center">🌟 Elanchezhian Muthukumar</h1>
+<h1 align="center">🌟 Elanchezhian Muthukumar 🌟</h1>
 <h3 align="center">Full Stack Developer | UI Enthusiast | India 🇮🇳</h3>
 
 <p align="center">
